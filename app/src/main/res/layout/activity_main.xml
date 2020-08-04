@@ -29,6 +29,6 @@
             android:layout_alignParentRight="true"
             android:textColor="@android:color/white"
             android:textSize="30dp"
-            android:text="Mary"/>
+            android:text="Bania"/>
 
 </RelativeLayout>
